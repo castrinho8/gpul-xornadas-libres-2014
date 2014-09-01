@@ -334,13 +334,35 @@ hr.small {
 /* Contact */
 
 #contact{
-	padding:10%;
+	background-color: #5E7A9B;
+	color: Azure;
+	padding:5%;
+}
+
+#contact a,
+#contact .fa{
+	color: Azure;
+	opacity: 0.8;
+}
+
+
+#contact a:hover,
+#contact .fa:hover{
+	color: Azure;
+	opacity: 1;
+}
+
+.logo-contact{
+	height: 40%;
+	width: 40%;
+	margin-left: 30%;
 }
 
 /* Map */
 
 .map {
-    height: 500px;
+	height: 600px;
+	padding-left: 20%;
 }
 
 @media(max-width:768px) {
