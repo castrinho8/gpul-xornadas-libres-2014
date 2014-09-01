@@ -1,0 +1,11 @@
+{
+  "name": "ConstrucionesPeonyNistalWeb",
+  "version": "0.0.1",
+  "description": "",
+  "main": "web.js",
+  "dependencies": {
+    "express": "3.4.3"
+  },
+  "author": "Pablo Castro Valiño",
+  "license": "CC-by-SA"
+}
