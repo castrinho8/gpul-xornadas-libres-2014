@@ -6,7 +6,7 @@
 
 	"nav-first":"Inicio",
 	"nav-second":"Nuestros valores",
-	"nav-third":"Las jornadas",
+	"nav-third":"Nuestras jornadas",
 	"nav-fourth":"Programa",
 	"nav-fifth":"Como llegar",
 	"nav-sixth":"Contacto",
@@ -26,10 +26,11 @@
 	"principles-m-txt":"Información geográfica libre, gratuita, sin restricciones y totalmente colaborativa.",
 	"btn-fourth":"Tengo curiosidad",
 	
-	"about-title":"Las jornadas",
-	"about-txt-first":"Son unas jornadas gratuitas y totalmente basadas en elementos de la cultura libre, desde hardware, software, wikidata o cartografía.",
+	"about-title":"Nuestras jornadas",
+	"about-txt-first":"Tres días centrados en el mundo libre, con todo tipo de charlas y talleres sobre temas de lo más variado, desde hardware hasta software libre, wikidata o cartografía gracias a la colaboración de antiguos alumnos de la FIC, empresas del sector y asociaciones comprometidas con la cultura libre.",
 	"about-txt-second":"Por XIII año las celebramos en A Coruña, esta vez los días 8, 9 y 10 de Octubre.",
-	"about-speakers":"Charlas",
+	"about-txt-third":"La inscripción es totalmente gratuita y ya está abierta, el espacio es limitado por lo que corre a inscribirte y no te quedes sin sitio.",
+	"about-speakers":"Primeras charlas",
 	"about-speak-txt-first":"Tendremos charlas de lo más variado, programación web, wikidata, arduino o cartografía libre.",
 	"about-speak-txt-second":"Queremos mostrar el enorme potencial de las herramientas libres.",
 	"about-speak-txt-third":"Comparte y mejora tus trabajos con la comunidad.",
@@ -39,8 +40,8 @@
 	"about-work-txt-third":"Inscríbete en nuestros talleres",
 	"about-work-txt-fourth":"¡Son gratis!",
 	"about-networking":"Networking",
-	"about-net-txt-first":"Estudiantes, desarrolladores, mentes inquietas.",
-	"about-net-txt-second":"Siempre se celebraron en un ámbito local, este año nos traemos gente de fuera.",
+	"about-net-txt-first":"Todo en un ambiente universitario, enfocado a estudiantes y profesionales del sector con actividades desde niveles introductorios hasta avanzados.",
+	"about-net-txt-second":"Siempre las hemos celebrado en un ámbito local, este año nos traemos gente de fuera.",
 	"about-cc-txt":"Nos gusta compartir libremente lo que hacemos asique si no puedes venir, no te preocupes, grabaremos y subiremos con licencias libres todas y cada una de las charlas ;)",
 	"about-btn":"¡¡Inscríbete, es gratis!!",
 	
@@ -92,6 +93,7 @@
 	"plane-txt-third":"Cruzar la avenida Alfonso Molina.",
 	"plane-txt-fourth":"Coger linea universitaria hacia el campus.",
 	"plane-txt-fifth":"Linea E Universidad",
+
 	"btn-info-first":"Más información",
 	"btn-info-second":"Más información",
 	"btn-info-third":"Más información"

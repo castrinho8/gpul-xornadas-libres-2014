@@ -41,6 +41,7 @@ i18n.init(options, function(t){
         $("#about-title").text(i18n.t("about-title"));
         $("#about-txt-first").text(i18n.t("about-txt-first"));
         $("#about-txt-second").text(i18n.t("about-txt-second"));
+        $("#about-txt-third").text(i18n.t("about-txt-third"));
         $("#about-speakers").text(i18n.t("about-speakers"));
         $("#about-speak-txt-first").text(i18n.t("about-speak-txt-first"));
         $("#about-speak-txt-second").text(i18n.t("about-speak-txt-second"));

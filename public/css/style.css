@@ -59,6 +59,16 @@ body {
 	padding: 5%;
 }
 
+.inner-heigth {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.inner-width {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
@@ -93,6 +103,34 @@ hr.small {
     max-width: 100px;
 }
 
+/* Links diferent default decoration */
+.no-decoration{
+	color: Azure;
+	text-decoration: none;
+}
+
+.no-decoration:hover{
+	color: white;
+}
+
+
+/* Titles */
+
+.title-dark{
+	font-weight: bold;
+	color: Teal;
+}
+
+.title-light{
+	font-weight: bold;
+	color: Azure;
+}
+
+.subtitle-light{
+	font-weight: bold;
+	color: Orange;
+}
+
 
 /* Navigation */
 
@@ -108,31 +146,11 @@ hr.small {
 	width: 7%;
 	height: 7%;
 	margin-left: 5%;
-	margin-right: 25%;
+	margin-right: 12%;
 	-webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
 	-moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
 	transition: background .5s ease-in-out,padding .5s ease-in-out;
 }
-
-.flag-list{
-	padding-left: 30%;
-}
-
-.flag{
-	color: black;
-	text-decoration: none;
-}
-
-.flag img{
-	height: 35px;
-	width: 45px;
-	opacity: 0.7;
-}
-
-.flag img:hover{
-	opacity: 1;
-}
-
 
 .navbar-logo > img{
 	display: none;
@@ -221,58 +239,31 @@ hr.small {
 	padding-left: 4%;
 }
 
+
 /* Program */
 
-.nav-tabs{
-	padding-top: 5%;
-	padding-bottom: 5%;
-}
-
-.nav-tabs li a.active{
-	color: #fff;
-	background-color: Teal;
-}
-
-.nav-tabs li a:hover{
-	color: #fff;
-	background-color: Teal;
-}
-
-.program {
+.program,
+.talks,
+.workshops {
     padding-top: 5%;
     padding-bottom: 5%;
 	background-color: #5E7A9B;
 	color: Azure;
 }
 
-.activities-item {
-    margin-bottom: 30px;
+.talks{
+	color: black;
+	background-color: white;	
 }
 
-.activities {
-    margin: 0 auto;
+.talk,
+.workshop {
+	display: none;
 }
 
-.activities:hover {
-    opacity: 0.6;
-}
-
-.activities-caption{
-	margin-top:1em;	
-	margin-bottom:2em;	
-}
-
-.selected-activity {
-	margin: 0 auto;
-	display:none;
-}
-
-#selected-item{
-	display:none;
-}
-
-.text-activities{
-	display:none;
+.reduced-img{
+	width: 80%;
+	height: 80%;
 }
 
 
@@ -303,12 +294,21 @@ hr.small {
 }
 
 
-/* Call to Action */
+/* Collaborators & Sponsors */
 
-.collaborators {
+.sponsors,
+.collaborators{
 	background-color:white;
 	color: black;
+}
+
+.sponsors{
 	padding: 50px 0;
+}
+
+.collaborators {
+	padding-top: 0%;
+	padding-bottom: 50px;
 }
 
 .collaborators .btn {
@@ -316,15 +316,27 @@ hr.small {
 }
 
 .collaborator{
+	width: 10em;
+	padding-top: 5em;
+	padding-left: 1em;
+	opacity: 0.8;
+}
+
+.collaborator:hover{
+	opacity: 1;
+}
+
+.sponsor{
 	width: 15em;
 	padding-top: 5em;
 	padding-left: 1em;
 	opacity: 0.7;
 }
 
-.collaborator:hover{
+.sponsor:hover{
 	opacity: 1;
 }
+
 
 #logo-xunta{
 	width: 100%;
@@ -389,6 +401,29 @@ hr.small {
         height: 75%;
     }
 }
+
+
+/* Language */
+
+.flag-list{
+	padding-left: 30%;
+}
+
+.flag{
+	color: black;
+	text-decoration: none;
+}
+
+.flag img{
+	height: 35px;
+	width: 45px;
+	opacity: 0.7;
+}
+
+.flag img:hover{
+	opacity: 1;
+}
+
 
 /* Footer */
 
