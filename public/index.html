@@ -55,12 +55,14 @@
                         </li>
                         <li><a id="nav-first" class="page-scroll" href="#top">Inicio</a></li>
                         <li><a id="nav-second" class="page-scroll" href="#principles">Nuestros valores</a></li>
-                        <li><a id="nav-third" class="page-scroll" href="#about">Las jornadas</a></li>
+                        <li><a id="nav-third" class="page-scroll" href="#about">Las Jornadas</a></li>
                         <li><a id="nav-fourth" class="page-scroll" href="#program">Programa</a></li>
                         <li><a id="nav-fifth" class="page-scroll" href="#arrive">Como llegar</a></li>
-                        <li><a id="nav-seventh" class="page-scroll" href="#collaborators">Colaboradores</a></li>
                         <li><a id="nav-sixth" class="page-scroll" href="#contact">Contacto</a></li>
+                        <li><a id="nav-seventh" class="page-scroll" href="#collaborators">Colaboradores</a></li>
                         <li><a id="nav-seventh" class="page-scroll" href="#sponsors">Patrocinadores</a></li>
+                        <li><a id="gallego" class="language page-scroll" href="">GL</a></li>
+                        <li><a id="castellano" class="language page-scroll" href="">ES</a></li>
                     </ul>
                 </div>
             </div>
@@ -233,8 +235,9 @@
             <div class="row inner">
                 <div class="col-md-3">
                     <span class="fa-stack fa-2x">
-                        <i class="fa fa-cc fa-stack-1x text-primary"></i>
+                        <i class="fa fa-camera fa-stack-1x text-primary"></i>
                     </span>
+                    <b id="about-video">Video</b>
                 </div>
                 <div class="col-md-9 text-about">
                     <p><i id="about-cc-txt">Nos gusta compartir libremente lo que hacemos asique si no puedes venir, no te preocupes, grabaremos y subiremos con licencias libres todas y cada una de las charlas ;)</i></p>
@@ -577,33 +580,6 @@ style="border: 1px solid black">
         <a id="map-txt" href="http://www.openstreetmap.org/?mlat=43.33295&amp;mlon=-8.41107#map=17/43.33295/-8.41107">Ver un mapa máis grande</a></small>
     </section>
 
-
-    <!-- Collaborators -->
-    <aside id="collaborators" class="collaborators bg-primary">
-        <div class="wide-container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2><b id="collaborators-title">Colaboradores</b></h2>
-                    <hr class="small">
-                      <div class="row">
-                            <a class="col-md-3" href="http://trabesoluciones.com/" target="_blank">
-                                <img id="logo-trabe" class="collaborator" src="img/logos/logo-trabe.svg">
-                            </a>
-                            <a class="col-md-3" href="http://www.wikimedia.es/wiki/Portada" target="_blank">
-                                <img id="logo-wikimedia" class="collaborator" src="img/logos/logo-wikimedia.svg">
-                            </a>
-                            <a class="col-md-3" href="https://sites.google.com/site/madridgug/" target="_blank">
-                                <img id="logo-gug" class="collaborator" src="img/logos/logo-madrid-gug.png">
-                            </a>
-                            <a class="col-md-3" href="http://bricolabs.cc/web/" target="_blank">
-                                <img id="logo-bricolabs" class="collaborator" src="img/logos/logo-bricolabs.png">
-                            </a>
-                        </div>
-                </div>
-            </div>
-        </div>
-    </aside>
-
     <section id="contact">
       <div class="container ow">
           <div class="col-lg-10 col-lg-offset-1 text-center">
@@ -635,6 +611,33 @@ style="border: 1px solid black">
       </div>
     </section>
 
+
+    <!-- Collaborators -->
+    <aside id="collaborators" class="collaborators bg-primary">
+        <div class="wide-container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2><b id="collaborators-title">Colaboradores</b></h2>
+                    <hr class="small">
+                      <div class="row">
+                            <a class="col-md-3" href="http://trabesoluciones.com/" target="_blank">
+                                <img id="logo-trabe" class="collaborator" src="img/logos/logo-trabe.svg">
+                            </a>
+                            <a class="col-md-3" href="http://www.wikimedia.es/wiki/Portada" target="_blank">
+                                <img id="logo-wikimedia" class="collaborator" src="img/logos/logo-wikimedia.svg">
+                            </a>
+                            <a class="col-md-3" href="https://sites.google.com/site/madridgug/" target="_blank">
+                                <img id="logo-gug" class="collaborator" src="img/logos/logo-madrid-gug.png">
+                            </a>
+                            <a class="col-md-3" href="http://bricolabs.cc/web/" target="_blank">
+                                <img id="logo-bricolabs" class="collaborator" src="img/logos/logo-bricolabs.png">
+                            </a>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </aside>
+
     <!-- Sponsors -->
     <aside id="sponsors" class="sponsors bg-primary">
         <div class="wide-container">
@@ -652,7 +655,7 @@ style="border: 1px solid black">
                             <a class="col-md-3" href="http://www.fic.udc.es/MainPage.do" target="_blank">
                                 <img id="logo-fic" class="sponsor" src="img/logos/logo_fic.png">
                             </a>
-                            <a class="col-md-3" href="http://www.udc.gal.com/" target="_blank">
+                            <a class="col-md-3" href="http://www.udc.gal/" target="_blank">
                                 <img id="logo-udc" class="sponsor" src="img/logos/logo_udc.jpg">
                             </a>
                         </div>
@@ -663,18 +666,6 @@ style="border: 1px solid black">
 
     <!-- Footer -->
     <footer>
-        <div id="language" class="container text-center">
-            <h4>Idioma</h4>
-            <hr class="small">
-            <div class="flag-list">
-                <a id="gallego" class="col-md-6 flag" href="/">
-                    <img class="img-responsive" src="img/flags/galicia-flag.png">
-                </a>
-                <a id="castellano" class="col-md-6 flag" href="/">
-                    <img class="img-responsive" src="img/flags/spain-flag.png">
-                </a>
-            </div>
-        </div>
 
         <div id="license" class="container col-lg-10 col-lg-offset-1 text-center">
             <hr class="small">
