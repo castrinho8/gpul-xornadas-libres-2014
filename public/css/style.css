@@ -59,6 +59,16 @@ body {
 	padding: 5%;
 }
 
+.inner-heigth {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.inner-width {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
@@ -93,8 +103,46 @@ hr.small {
     max-width: 100px;
 }
 
+/* Links diferent default decoration */
+.no-decoration{
+	color: Azure;
+	text-decoration: none;
+}
+
+.no-decoration:hover{
+	color: white;
+}
+
+
+/* Titles */
+
+.title-dark{
+	font-weight: bold;
+	color: Teal;
+}
+
+.title-light{
+	font-weight: bold;
+	color: Azure;
+}
+
+.subtitle-light{
+	font-weight: bold;
+	color: Orange;
+}
+
 
 /* Navigation */
+
+#gallego{
+	margin-left: 50px;
+}
+
+.language{
+	border-bottom: 0px solid transparent  !important;
+	font-size: 9px !important;
+}
+
 
 .navbar{
 	height:3%;
@@ -108,7 +156,7 @@ hr.small {
 	width: 7%;
 	height: 7%;
 	margin-left: 5%;
-	margin-right: 25%;
+	margin-right: 15%;
 	-webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
 	-moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
 	transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -129,19 +177,22 @@ hr.small {
 }
 
 .masthead-nav > li {
-  display: inline-block;
+	display: inline-block;
 }
+
 .masthead-nav > li + li {
-  margin-left: 20px;
 }
-.masthead-nav > li > a {
-  padding-right: 0;
-  padding-left: 0;
-  font-size: 16px;
-  font-weight: bold;
-  color: Azure;
-  border-bottom: 2px solid transparent;
+
+.masthead-nav > li a {
+	margin-left: 20px;
+	padding-right: 0;
+	padding-left: 0;
+	font-size: 14px;
+	font-weight: bold;
+	color: Azure;
+	border-bottom: 2px solid transparent;
 }
+
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
 	background-color: transparent;
@@ -158,7 +209,6 @@ hr.small {
   }
 }
 
-
 /* Header */
 
 .header {
@@ -173,18 +223,19 @@ hr.small {
 	-o-background-size: cover;
 }
 
-/* Services */
+/* Principles */
 
-.services {
+.principles {
 	background-color:#5E7A9B;
 	padding: 50px 0;
 }
 
-.service-item {
+.principle-item {
     margin-bottom: 30px;
 }
 
 /* About */
+
 #about{
 	background-color: white;
 	color: black;
@@ -202,58 +253,30 @@ hr.small {
 }
 
 
-/* Portfolio */
+/* Program */
 
-.nav-tabs{
-	padding-top: 5%;
-	padding-bottom: 5%;
-}
-
-.nav-tabs li a.active{
-	color: #fff;
-	background-color: Teal;
-}
-
-.nav-tabs li a:hover{
-	color: #fff;
-	background-color: Teal;
-}
-
-.program {
+.program,
+.talks,
+.workshops {
     padding-top: 5%;
     padding-bottom: 5%;
 	background-color: #5E7A9B;
 	color: Azure;
 }
 
-.activities-item {
-    margin-bottom: 30px;
+.talks{
+	color: black;
+	background-color: white;	
 }
 
-.activities {
-    margin: 0 auto;
+.talk,
+.workshop {
+	display: none;
 }
 
-.activities:hover {
-    opacity: 0.6;
-}
-
-.activities-caption{
-	margin-top:1em;	
-	margin-bottom:2em;	
-}
-
-.selected-activity {
-	margin: 0 auto;
-	display:none;
-}
-
-#selected-item{
-	display:none;
-}
-
-.text-activities{
-	display:none;
+.reduced-img{
+	width: 80%;
+	height: 80%;
 }
 
 
@@ -284,28 +307,40 @@ hr.small {
 }
 
 
-/* Call to Action */
+/* Collaborators & Sponsors */
 
-.call-to-action {
+.sponsors,
+.collaborators{
 	background-color:white;
 	color: black;
-	padding: 50px 0;
 }
 
-.call-to-action .btn {
+.collaborators .btn {
 	margin: 10px;
 }
 
-.client{
+.collaborator{
+	width: 10em;
+	padding-top: 5em;
+	padding-left: 1em;
+	opacity: 0.8;
+}
+
+.collaborator:hover{
+	opacity: 1;
+}
+
+.sponsor{
 	width: 15em;
 	padding-top: 5em;
 	padding-left: 1em;
 	opacity: 0.7;
 }
 
-.client:hover{
+.sponsor:hover{
 	opacity: 1;
 }
+
 
 #logo-xunta{
 	width: 100%;
@@ -370,6 +405,29 @@ hr.small {
         height: 75%;
     }
 }
+
+
+/* Language */
+
+.flag-list{
+	padding-left: 30%;
+}
+
+.flag{
+	color: black;
+	text-decoration: none;
+}
+
+.flag img{
+	height: 35px;
+	width: 45px;
+	opacity: 0.7;
+}
+
+.flag img:hover{
+	opacity: 1;
+}
+
 
 /* Footer */
 
