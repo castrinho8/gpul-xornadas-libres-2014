@@ -37,17 +37,19 @@
 	"about-workshops":"Talleres",
 	"about-work-txt-first":"Python+MongoDB, cacharreo con Arduino o edición a la Wikipedia entre otros.",
 	"about-work-txt-second":"Traete el portatil, lo necesitarás.",
-	"about-work-txt-third":"Inscríbete en nuestros talleres",
-	"about-work-txt-fourth":"¡Son gratis!",
+	"about-work-txt-third":"Inscríbete en nuestros talleres (En pocos días podrás hacerlo)",
+	"about-work-txt-fourth":"Incluyen certificado de asistencia.",
+	"about-work-txt-fifth":"¡Son gratis!",
 	"about-networking":"Networking",
 	"about-net-txt-first":"Todo en un ambiente universitario, enfocado a estudiantes y profesionales del sector con actividades desde niveles introductorios hasta avanzados.",
-	"about-net-txt-second":"Siempre las hemos celebrado en un ámbito local, este año nos traemos gente de fuera.",
 	"about-cc-txt":"Nos gusta compartir libremente lo que hacemos asique si no puedes venir, no te preocupes, grabaremos y subiremos con licencias libres todas y cada una de las charlas ;)",
 	"about-btn":"¡¡Inscríbete, es gratis!!",
 	
-	"program-title":"Abierto el Call For Papers",
-	"program-btn":"Envíanos tu colaboración",
-	
+	"program-title":"Cerrado el Call For Papers",
+	"program-txt-first":"En breves publicaremos el horario final, mientras tanto puedes ver las primeras charlas que tenemos cerradas.",
+	"program-txt-second":"En los próximos días también se abrirán las inscripiciones para los talleres.",
+	"program-txt-third":"¡Tenemos plazas limitadas!",
+
 	"arrive-title":"Como llegar a la facultad",
 	"map-txt":"Ver un mapa más grande",
 	
@@ -60,10 +62,14 @@
 	
 	"collaborators-title":"Colaboradores",
 	
+	"plan-sl-first":"Esta actividad, forma parte de las actividades que GPUL realiza al abrigo del convenio de colaboración firmado con la Axencia para a Modernización Tecnolóxica de Galicia (",
+	"plan-sl-second":"), e incluídas en el",
+
 	"license-txt-first":"Esta obra está bajo una",
 	"license-txt-second":"Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.",
-	"license-txt-third":"Fotografías de",
-	"license-txt-fourth":"Jose Luis Cernadas Iglesias",
+	"license-txt-third":"El código fuente se encuentra publicado en el siguiente",
+	"license-txt-fourth":"Fotografías de",
+	"license-txt-fifth":"Jose Luis Cernadas Iglesias",
 
 	"train-title":"Desde la estación de tren",
 	"train-txt-first":"Bajar dirección Avenida Alfonso Molina",

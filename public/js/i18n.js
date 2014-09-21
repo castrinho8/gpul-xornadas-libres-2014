@@ -51,14 +51,16 @@ i18n.init(options, function(t){
         $("#about-work-txt-second").text(i18n.t("about-work-txt-second"));
         $("#about-work-txt-third").text(i18n.t("about-work-txt-third"));
         $("#about-work-txt-fourth").text(i18n.t("about-work-txt-fourth"));
+        $("#about-work-txt-fifth").text(i18n.t("about-work-txt-fifth"));
         $("#about-networking").text(i18n.t("about-networking"));
         $("#about-net-txt-first").text(i18n.t("about-net-txt-first"));
-        $("#about-net-txt-second").text(i18n.t("about-net-txt-second"));
         $("#about-cc-txt").text(i18n.t("about-cc-txt"));
         $("#about-btn").text(i18n.t("about-btn"));
 
         $("#program-title").text(i18n.t("program-title"));
-        $("#program-btn").text(i18n.t("program-btn"));
+        $("#program-txt-first").text(i18n.t("program-txt-first"));
+        $("#program-txt-second").text(i18n.t("program-txt-second"));
+        $("#program-txt-third").text(i18n.t("program-txt-third"));
 
         $("#arrive-title").text(i18n.t("arrive-title"));
         $("#map-txt").text(i18n.t("map-txt"));
@@ -72,11 +74,15 @@ i18n.init(options, function(t){
 
         $("#collaborators-title").text(i18n.t("collaborators-title"));
 
+        $("#plan-sl-first").text(i18n.t("plan-sl-first"));
+        $("#plan-sl-second").text(i18n.t("plan-sl-second"));
+
         $("#license-txt-first").text(i18n.t("license-txt-first"));
         $("#license-txt-second").text(i18n.t("license-txt-second"));
         $("#license-txt-third").text(i18n.t("license-txt-third"));
         $("#license-txt-fourth").text(i18n.t("license-txt-fourth"));
-       
+        $("#license-txt-fifth").text(i18n.t("license-txt-fifth"));
+
         $("#train-title").text(i18n.t("train-title"));
         $("#train-txt-first").text(i18n.t("train-txt-first"));
         $("#train-txt-second").text(i18n.t("train-txt-second"));
