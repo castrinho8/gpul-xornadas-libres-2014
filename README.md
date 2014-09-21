@@ -1,6 +1,5 @@
-
 Landing Page de las XIII Xornadas Libres de GPUL
-=============================================
+===============================================
 
 Servidor web en *Node.js*, internacionalización con *Javascript* y la librería *i18next*.
 
