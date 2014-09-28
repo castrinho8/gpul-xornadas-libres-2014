@@ -67,6 +67,9 @@ i18n.init(options, function(t){
         $("#program-txt-second").text(i18n.t("program-txt-second"));
         $("#program-txt-third").text(i18n.t("program-txt-third"));
 
+        $("#talks-title").text(i18n.t("talks-title"));
+        $("#workshops-title").text(i18n.t("workshops-title"));
+
         $("#arrive-title").text(i18n.t("arrive-title"));
         $("#map-txt").text(i18n.t("map-txt"));
 
