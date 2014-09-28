@@ -1,14 +1,14 @@
 {
 	"page-title":"XIII Xornadas Libres",
 	"head-title":"XIII Xornadas Libres",
-	"head-date":"8, 9 y 10 de Octubre",
+	"head-date":"8, 9 y 10 de octubre",
 	"head-city":"A Coruña",
 
 	"nav-first":"Inicio",
 	"nav-second":"Nuestros valores",
 	"nav-third":"Las jornadas",
 	"nav-fourth":"Programa",
-	"nav-fifth":"Como llegar",
+	"nav-fifth":"Cómo llegar",
 	"nav-sixth":"Contacto",
 	"nav-seventh":"Colaboradores",
 
@@ -27,30 +27,30 @@
 	"btn-fourth":"Tengo curiosidad",
 	
 	"about-title":"Nuestras jornadas",
-	"about-txt-first":"Tres días centrados en el mundo libre, con todo tipo de charlas y talleres sobre temas de lo más variado, desde hardware hasta software libre, wikidata o cartografía gracias a la colaboración de antiguos alumnos de la FIC, empresas del sector y asociaciones comprometidas con la cultura libre.",
-	"about-txt-second":"Por XIII año las celebramos en A Coruña, esta vez los días 8, 9 y 10 de Octubre.",
-	"about-txt-third":"La inscripción es totalmente gratuita y ya está abierta, el espacio es limitado por lo que corre a inscribirte y no te quedes sin sitio.",
+	"about-txt-first":"Tres días centrados en el mundo libre, con todo tipo de charlas y talleres sobre temas de lo más variado: desde hardware hasta software libre, wikidata o cartografía, gracias a la colaboración de antiguos alumnos de la FIC, empresas del sector y asociaciones comprometidas con la cultura libre.",
+	"about-txt-second":"Por XIII año las celebramos en A Coruña, esta vez los días 8, 9 y 10 de octubre.",
+	"about-txt-third":"La inscripción es totalmente gratuita y ya está abierta. El espacio es limitado, por lo que corre a inscribirte y no te quedes sin sitio.",
 	"about-speakers":"Primeras charlas",
-	"about-speak-txt-first":"Tendremos charlas de lo más variado, programación web, wikidata, arduino o cartografía libre.",
+	"about-speak-txt-first":"Tendremos charlas de lo más variado: programación web, wikidata, Arduino o cartografía libre.",
 	"about-speak-txt-second":"Queremos mostrar el enorme potencial de las herramientas libres.",
 	"about-speak-txt-third":"Comparte y mejora tus trabajos con la comunidad.",
 	"about-workshops":"Talleres",
-	"about-work-txt-first":"Python+MongoDB, cacharreo con Arduino o edición a la Wikipedia entre otros.",
-	"about-work-txt-second":"Traete el portatil, lo necesitarás.",
+	"about-work-txt-first":"Python+MongoDB, cacharreo con Arduino o edición a la Wikipedia, entre otros.",
+	"about-work-txt-second":"Tráete el portatil. Lo necesitarás.",
 	"about-work-txt-third":"Inscríbete en nuestros talleres (En pocos días podrás hacerlo)",
 	"about-work-txt-fourth":"Incluyen certificado de asistencia.",
 	"about-work-txt-fifth":"¡Son gratis!",
 	"about-networking":"Networking",
-	"about-net-txt-first":"Todo en un ambiente universitario, enfocado a estudiantes y profesionales del sector con actividades desde niveles introductorios hasta avanzados.",
-	"about-cc-txt":"Nos gusta compartir libremente lo que hacemos asique si no puedes venir, no te preocupes, grabaremos y subiremos con licencias libres todas y cada una de las charlas ;)",
-	"about-btn":"¡¡Inscríbete, es gratis!!",
+	"about-net-txt-first":"Todo en un ambiente universitario, enfocado a estudiantes y profesionales del sector, con actividades desde niveles introductorios hasta avanzados.",
+	"about-cc-txt":"Nos gusta compartir libremente lo que hacemos, así que, si no puedes venir, no te preocupes: grabaremos y subiremos con licencias libres todas y cada una de las charlas ;)",
+	"about-btn":"¡Inscríbete, es gratis!",
 	
 	"program-title":"Cerrado el Call For Papers",
-	"program-txt-first":"En breves publicaremos el horario final, mientras tanto puedes ver las primeras charlas que tenemos cerradas.",
+	"program-txt-first":"En breve publicaremos el horario final. Mientras tanto, puedes ver las primeras charlas que tenemos cerradas.",
 	"program-txt-second":"En los próximos días también se abrirán las inscripiciones para los talleres.",
 	"program-txt-third":"¡Tenemos plazas limitadas!",
 
-	"arrive-title":"Como llegar a la facultad",
+	"arrive-title":"Cómo llegar a la Facultad",
 	"map-txt":"Ver un mapa más grande",
 	
 	"contact-title":"Contáctanos",
@@ -62,7 +62,7 @@
 	
 	"collaborators-title":"Colaboradores",
 	
-	"plan-sl-first":"Esta actividad, forma parte de las actividades que GPUL realiza al abrigo del convenio de colaboración firmado con la Axencia para a Modernización Tecnolóxica de Galicia (",
+	"plan-sl-first":"Estas jornadas forman parte de las actividades que GPUL realiza al abrigo del convenio de colaboración firmado con la Axencia para a Modernización Tecnolóxica de Galicia (",
 	"plan-sl-second":"), e incluídas en el",
 
 	"license-txt-first":"Esta obra está bajo una",
@@ -91,7 +91,7 @@
 	"car-txt-fifth":"Coger la primera salida y subir la pequeña cuesta hacia el puente que atraviesa la avenida.",
 	"car-txt-sixth":"Coger la rotonda a la izquierda (3ª salida).",
 	"car-txt-seventh":"Coger la rotonda a la derecha (1ª salida).",
-	"car-txt-eighth":"La facultad está frente al estadio de atletismo.",
+	"car-txt-eighth":"La Facultad está frente al estadio de atletismo.",
 
 	"plane-title":"Desde el aeropuerto",
 	"plane-txt-first":"Linea 4051 Puerta Real - Aeropuerto.",
