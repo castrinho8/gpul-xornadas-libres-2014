@@ -8,7 +8,7 @@
 	"nav-second":"Os nosos valores",
 	"nav-third":"As xornadas",
 	"nav-fourth":"Programa",
-	"nav-fifth":"Como chegar",
+	"nav-fifth":"Cómo chegar",
 	"nav-sixth":"Contacto",
 	"nav-seventh":"Colaboradores",
 
@@ -30,7 +30,7 @@
 	"about-txt-first":"Tres días centrados no mundo libre, con todo tipo de charlas e obradoiros sobre temas do máis variado: dende hardware ata software libre, wikidata ou cartografía, grazas á colaboración de vellos alumnos da FIC, empresas do sector e asociacións comprometidas coa cultura libre.",
 	"about-txt-second":"Por XIII ano celebrámolas en A Coruña, esta vez os días 8, 9 e 10 de outubro.",
 	"about-txt-third":"A inscrición é totalmente gratuita e xa está aberta. O espazo é limitado, polo que corre a inscribirte e non fiques sen sitio.",
-	"about-speakers":"Primeiras charlas",
+	"about-speakers":"Charlas",
 	"about-speak-txt-first":"Teremos charlas do máis variado: programación web, wikidata, Arduino ou cartografía libre.",
 	"about-speak-txt-second":"Queremos mostrar o enorme potencial das ferramentas libres.",
 	"about-speak-txt-third":"Comparte e mellora os teus traballos coa comunidade.",
@@ -42,14 +42,18 @@
 	"about-work-txt-fifth":"Son gratis!",
 	"about-networking":"Networking",
 	"about-net-txt-first":"Todo nun ambiente universitario, enfocado a estudantes e profesionais do sector, con actividades dende niveis introductorios ata avanzados.",
+	"about-video":"Vídeo",
 	"about-cc-txt":"Gústanos compartir libremente o que facemos, por tanto, se non podes vir, non te preocupes: gravaremos e subiremos con licenzas libres todas e cada unha das charlas ;)",
 	"about-btn":"Inscríbete, é gratis!",
 	
-	"program-title":"Pechado o Call For Papers",
-	"program-txt-first":"En breve publicaremos o horario final. Entrementres, podes ver as primeiras charlas que temos pechadas.",
-	"program-txt-second":"Nos próximos días tamén se abrirán as inscricións para os obradoiros.",
-	"program-txt-third":"Temos prazas limitadas!",
+	"program-title":"Horarios fináis",
+	"program-txt-first":"Ver a programación final",
+	"program-txt-second":"Xa te podes inscribir tamén nos obradoiros.",
+	"program-txt-third":"¡Temos prazas limitadas!",
 	
+	"talks-title":"Charlas",
+	"workshops-title":"Obradoiros",
+
 	"arrive-title":"Como chegar á Facultade",
 	"map-txt":"Ver un mapa maior",
 	

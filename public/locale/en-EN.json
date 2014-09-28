@@ -30,7 +30,7 @@
 	"about-txt-first":"Three days focused on the free and open world, with all kinds of talkings and workshops about several topics: from free and open hardware to software, wikidata or cartography, thanks to the collaboration of former FIC students, sector-related companies and associations committed to free and open culture.",
 	"about-txt-second":"For the XIII year we celebrate them in Corunna, this time on October 8th, 9th, and 10th.",
 	"about-txt-third":"Registration is totally free and it's already open. Our space is limited, so hurry and sign up before losing your seat.",
-	"about-speakers":"First talks",
+	"about-speakers":"Talks",
 	"about-speak-txt-first":"We will have very diverse talks: web programming, wikidata, Arduino or free and open cartography.",
 	"about-speak-txt-second":"We want to show the enormous potential of the free and open tools.",
 	"about-speak-txt-third":"Share and improve your works with the community.",
@@ -45,10 +45,13 @@
 	"about-cc-txt":"We like to freely share what we do, so if you can't come, don't worry - we'll record and upload with free and open licences every single talk ;-)",
 	"about-btn":"Sign up, it's free!",
 
-	"program-title":"Closed the Call For Papers",
-	"program-txt-first":"We'll publish the final schedule very soon. In the meantime, you can see the first talks that we already closed.",
-	"program-txt-second":"In the coming days we'll also open the wrokshps registration.",
+	"program-title":"Timetable",
+	"program-txt-first":"Show timetable",
+	"program-txt-second":"Workshops sign up opened.",
 	"program-txt-third":"Limited seats!",
+
+	"talks-title":"Talks",
+	"workshops-title":"Workshops",
 
 	"arrive-title":"How to reach the faculty",
 	"map-txt":"See a bigger map",
