@@ -8,6 +8,10 @@ i18n.init(options, function(t){
 
     if(i18n.lng().indexOf('gl') === 0) {
         lang = 'gl-ES';
+    } else if(i18n.lng().indexOf('pt') === 0) {
+	lang = 'pt-PT';
+    } else if(i18n.lng().indexOf('en') === 0) {
+	lang = 'en-EN';
     }
     
     i18n.setLng(lang,function(){
@@ -129,3 +133,12 @@ $('#castellano').click(function(){
     location.reload();
 });
 
+$('#portugues').click(function(){
+    document.cookie = 'i18next=pt-PT';
+    location.reload();
+});
+
+$('#ingles').click(function(){
+    document.cookie = 'i18next=en-EN';
+    location.reload();
+});
