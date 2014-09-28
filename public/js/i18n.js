@@ -54,6 +54,7 @@ i18n.init(options, function(t){
         $("#about-work-txt-fifth").text(i18n.t("about-work-txt-fifth"));
         $("#about-networking").text(i18n.t("about-networking"));
         $("#about-net-txt-first").text(i18n.t("about-net-txt-first"));
+        $("#about-video").text(i18n.t("about-video"));
         $("#about-cc-txt").text(i18n.t("about-cc-txt"));
         $("#about-btn").text(i18n.t("about-btn"));
 
